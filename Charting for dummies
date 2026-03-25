@@ -1,1 +1,15 @@
-index.html
+index.html<!DOCTYPE html>
+<html>
+<head>
+  <title>My Kids Themes Club</title>
+</head>
+<body>
+  <h1>Welcome to Little Learners!</h1>
+  <p>This is my first page on GitHub Pages. It's for preschool and daycare website themes.</p>
+  
+  <h2>Free Demo Theme</h2>
+  <p>Coming soon: Colorful preschool website templates!</p>
+  
+  <a href="https://github.com">Back to GitHub</a>
+</body>
+</html>
